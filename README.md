@@ -1,7 +1,7 @@
 # GeneconnectBE CI/CD Pipeline
 
 ## 1. Overview
-
+ 
 This repository contains the Azure DevOps pipeline configuration for the **GeneconnectBE** application. The primary goal is to establish a robust, manually-triggered Continuous Integration and Continuous Deployment (CI/CD) pipeline.
 
 The pipeline automates the process of building the application's Docker image, versioning it systematically, and publishing it to a secure Azure Container Registry (ACR). This process ensures consistent and reliable deployments.
